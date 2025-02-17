@@ -12,7 +12,8 @@
 - 10am-11am comp1236
 - 3-4pm comp1238
   
-[comp 1238](comp1238)
+[Comp 1238](comp1238)
+
 ## Links
 - [D2L](https://learn.georgebrown.ca)
 - [AtKlass](https://app.atklass.com)
